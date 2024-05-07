@@ -5,7 +5,7 @@ We have used the LSTM RNN to create the model and created metrics like Accuracy 
 
 (Note: All kinds of Hyperparameter tunings are avoided because of system constrain)
 
-Now, here I took a dataset from Kaggle and used it to train an LSTM RNN to created network of neurons with 100 neurons and a vector feature dimension of 40.
+Now, here I took a dataset from Kaggle and used it to train an LSTM RNN to create a network of neurons with 100 neurons and a vector feature dimension of 40.
 
 The steps taken here are
 1) Data Cleaning and Preprocessing - Using Stopwords and Stemming 
